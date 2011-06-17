@@ -23,7 +23,7 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
 	
 	<!-- load demo js -->
-	<script src="history.js"></script>
+	<script src="coffee/history.js"></script>
 
 </head>
 <body>
